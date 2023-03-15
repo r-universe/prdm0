@@ -1,5 +1,13 @@
 [
   {
+    "package": "AdequacyModel",
+    "oncran": true
+  },
+  {
+    "package": "hcci",
+    "oncran": true
+  },
+  {
     "package": "ropenblas",
     "oncran": true
   }
