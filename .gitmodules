@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AdequacyModel"]
 	path = AdequacyModel
 	url = https://github.com/prdm0/adequacymodel
-	shallow = true
-	registered = true
 [submodule "hcci"]
 	path = hcci
 	url = https://github.com/prdm0/hcci
-	shallow = true
-	registered = true
 [submodule "ropenblas"]
 	path = ropenblas
 	url = https://github.com/prdm0/ropenblas
-	shallow = true
-	registered = true
