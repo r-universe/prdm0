@@ -5,6 +5,9 @@
 [submodule "AdequacyModel"]
 	path = AdequacyModel
 	url = https://github.com/prdm0/adequacymodel
+[submodule "hcci"]
+	path = hcci
+	url = https://github.com/prdm0/hcci
 [submodule "ropenblas"]
 	path = ropenblas
 	url = https://github.com/prdm0/ropenblas
