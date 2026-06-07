@@ -1,16 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/prdm0/prdm0.r-universe.dev
 	branch = HEAD
 [submodule "AcceptReject"]
 	path = AcceptReject
-	url = https://github.com/prdm0/acceptreject
-[submodule "AdequacyModel"]
-	path = AdequacyModel
-	url = https://github.com/prdm0/adequacymodel
+	url = https://github.com/prdm0/AcceptReject
 [submodule "hcci"]
 	path = hcci
 	url = https://github.com/prdm0/hcci
-[submodule "ropenblas"]
-	path = ropenblas
-	url = https://github.com/prdm0/ropenblas
+[submodule "hcinfer"]
+	path = hcinfer
+	url = https://github.com/prdm0/hcinfer
