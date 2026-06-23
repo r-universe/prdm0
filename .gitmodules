@@ -5,12 +5,12 @@
 [submodule "AcceptReject"]
 	path = AcceptReject
 	url = https://github.com/prdm0/AcceptReject
-[submodule "calibratr"]
-	path = calibratr
-	url = https://github.com/prdm0/probcal
 [submodule "hcci"]
 	path = hcci
 	url = https://github.com/prdm0/hcci
 [submodule "hcinfer"]
 	path = hcinfer
 	url = https://github.com/prdm0/hcinfer
+[submodule "probcal"]
+	path = probcal
+	url = https://github.com/prdm0/probcal
